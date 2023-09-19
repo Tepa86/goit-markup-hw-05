@@ -496,7 +496,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     fill: #f4f4fd;
 }
 .form-text {
-    bottom: 16px;
+    margin-bottom: 16px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
