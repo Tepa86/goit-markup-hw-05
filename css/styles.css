@@ -597,3 +597,9 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .exit {
 transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+,.exit:hover {
+    fill: #ffffff
+}
+.exit:focus {
+    fill: #ffffff;
+}
